@@ -17,5 +17,9 @@ namespace AddressBookSystem
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            List.Items.Add(textBox1.Text +" "+ textBox2.Text+" From "+textBox4.Text+" Contact No. is "+textBox7.Text);
+        }
     }
 }

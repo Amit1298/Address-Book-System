@@ -1,0 +1,16 @@
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.exe
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.deps.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.runtimeconfig.dev.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.dll
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\bin\Debug\netcoreapp3.1\AddressBookSystem.pdb
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.AssemblyReference.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.Form1.resources
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.GenerateResource.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfoInputs.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.AssemblyInfo.cs
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.csproj.CoreCompileInputs.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.dll
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.pdb
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\AddressBookSystem\AddressBookSystem\obj\Debug\netcoreapp3.1\AddressBookSystem.genruntimeconfig.cache
